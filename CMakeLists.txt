@@ -6,4 +6,4 @@ include_directories(./EasyX/include)
 link_directories(./EasyX/lib64)
 link_libraries(libeasyx.a)
 
-add_executable(Graphics 0_firstwindow.cpp)
+add_executable(0_firstwindow 0_firstwindow.cpp)
