@@ -7,3 +7,5 @@ link_directories(./EasyX/lib64)
 link_libraries(libeasyx.a)
 
 add_executable(0_firstwindow 0_firstwindow.cpp)
+add_executable(week5 week5.cpp)
+add_executable(week5-updated week5-updated.cpp)
