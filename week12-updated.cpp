@@ -130,7 +130,7 @@ void Opening() {
     outtextxy(420, 290, _T("Press 'S' to go down!"));
     outtextxy(420, 310, _T("Press 'D' to go right!"));
     outtextxy(380, 330, _T("Press 'Enter' to confirm your play!"));
-    outtextxy(375, 350, _T("Press 'Q' to exit the game any time!"));
+    outtextxy(375, 350, _T("Press 'Q' to exit the game while playing!"));
     Sleep(1000);
     outtextxy(400, 370, _T("Press any key to continue..."));
     getch();
